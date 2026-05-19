@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Namma-Shaale Inventory</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="assets">Assets</string>
+    <string name="add_asset">Add Asset</string>
+    <string name="issue_log">Issue Log</string>
+    <string name="report">Report</string>
+    <string name="search_assets">Search assets…</string>
+    <string name="asset_name">Asset Name</string>
+    <string name="serial_number">Serial Number</string>
+    <string name="condition">Condition</string>
+    <string name="working">Working</string>
+    <string name="needs_repair">Needs Repair</string>
+    <string name="broken">Broken</string>
+    <string name="total_assets">Total Assets</string>
+    <string name="needs_repair_count">Needs Repair</string>
+    <string name="broken_count">Broken</string>
+    <string name="health_check">Monthly Health Check</string>
+    <string name="generate_report">Generate Report</string>
+    <string name="ai_suggest">AI Suggest</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="description">Description</string>
+    <string name="date_added">Date Added</string>
+    <string name="last_checked">Last Checked</string>
+    <string name="no_assets">No assets found. Add your first asset!</string>
+    <string name="no_issues">No issues logged yet.</string>
+    <string name="issue_description">Issue Description</string>
+    <string name="add_issue">Add Issue</string>
+    <string name="generating_ai">Generating AI suggestion…</string>
+    <string name="health_check_done">Health check completed!</string>
+    <string name="report_copied">Report copied to clipboard</string>
+</resources>
